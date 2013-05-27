@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: view-cube
+Class-Manager: view.ViewCubeExtension
+NetLogo-Extension-API-Version: 5.0
